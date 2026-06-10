@@ -1,3 +1,5 @@
+<img width="2752" height="1536" alt="Automatización_inteligente_de_cuentas_mensuales" src="https://github.com/user-attachments/assets/99f01f4e-7ee0-4c75-8a6d-029eedcccb1a" />
+
 # 🤖 Control de Cuentas Mensuales — n8n Workflow
 
 [![Estado](https://img.shields.io/badge/estado-producción-brightgreen?style=for-the-badge)](https://github.com/coderhouse2025-droid/n8n_Workflows)
