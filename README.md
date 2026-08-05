@@ -531,7 +531,6 @@ n8n almacena los workflows en formato JSON — es el formato nativo de la plataf
 Data Science · Analytics · Automatización
 
 ---
-
 ## 📄 Licencia
 
-MIT License — libre para uso, adaptación y distribución.
+Este proyecto está bajo la [Licencia MIT](LICENSE) — libre para uso como referencia, aprendizaje o desarrollo de proyectos propios.
